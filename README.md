@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @devrsk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React, NodeJS and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in software engineering.
+- 🌱 I’m currently a student of the ALX School.
+- 📫 You can reach me at devrsk@tuta.io
 
 <!---
 devrsk/devrsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
