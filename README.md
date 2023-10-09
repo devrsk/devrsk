@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devrsk
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently a student of the ALX School.
+- 🌱 I am a current graduate of the ALX School.
 - 📫 You can reach me at devrsk@tuta.io
 
 <!---
